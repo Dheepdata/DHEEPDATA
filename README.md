@@ -1,7 +1,5 @@
 # About me👋
 
-**Dheepdata/DHEEPDATA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hi! I'm Dheepthi, a "ML enthusiast" passionate about "machine learning", "molecular modeling", "graph neural networks", etc..etc...
 
 I'm currently working on:
@@ -25,8 +23,8 @@ I'm currently working on:
 - Open-source contributions in scientific computing
 
 ### 📫 Let's Connect
-- GitHub: 
-- LinkedIn: [your LinkedIn link]
+- GitHub: https://github.com/Dheepdata
+- LinkedIn: https://www.linkedin.com/in/dheepthi-n-u
 - Email: dheepthiunnimon@gmail.com
 
 Thanks for visiting! 😊
